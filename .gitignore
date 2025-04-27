@@ -1,0 +1,17 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Maven build directory
+target/
+
+# Compiled files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
